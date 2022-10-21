@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Philama Guardini
+<h1>- 👋 Hi, I’m @Philama Guardini</h1>
 - 👀 I’m interested in fullstack web DEv
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on ...
