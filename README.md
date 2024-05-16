@@ -1,6 +1,6 @@
 <h3>- 👋 Hi, I’m @Philama Guardini</h3>
 - 👀 I’m interested in fullstack web DEv
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently a ReactJS JR DEv
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
