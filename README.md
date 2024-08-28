@@ -2,9 +2,7 @@
 - 👀 I’m interested in fullstack web DEv
 - 🌱 I’m currently a ReactJS JR DEv
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-# 💻 Tech Stack:
-# 📊 GitHub Stats:
+- 📫 How to reach me Guardi2005@yahoo.fr
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Philama&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
